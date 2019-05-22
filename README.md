@@ -1,6 +1,6 @@
 # Bookstore Backend
 
-Hands-on on rails tutorial blog post [here].
+Hands-on rails tutorial blog post [here].
 
 ## Configuration
 
